@@ -46,3 +46,8 @@ table(pred = pred_model_logit1, true = trad_data$he_more_than_5yrs_than_her)
 
 
 Based on the results from the OLS model and Logit model , we can conclude that the Logit model was more accurate as its precision was 57.06% compared to 55.01% for the OLS model.
+
+The two academic articles that I researched this week were "The Hot Hand Revisited: The Effect of Outcome Dependency on Basketball Shooting" by Miller & Sanjurjo and "Cognitive Biases and Risk Perception in Sports: Evidence of the 'Hot Hand' and 'Gambler's Fallacy' in Professional Basketball" by Koehler and Conley.  These two articles discuss the impact of the “hot hand” and whether or not it’s real.
+	“The Hot Hand Revisited: The Effect of Outcome Dependency on Basketball Shooting”  reevaluated the likeliness of there being a “hot hand” when a player makes consecutive shots. It talks about errors and new statistical methods can add to the research. In the article, it leads to the conclusion that players may have an increased probability of hitting consecutive shots if they have already been making consecutive shots prior. The econometric techniques that were used in this study were permutation testing and Bayesian analysis. These techniques help with accuracy. 
+	“Cognitive Biases and Risk Perception in Sports: Evidence of the ‘Hot Hand’ and ‘Gambler’s Fallacy’ also discusses the ‘Hot Hand’ phenomena. However, in this article, it mostly focuses on whether the “hot hand” is more so a random variation than it is skill. It explores the possibility that the idea of the “hot hand” impacts a player’s confidence which can affect how different they play from their usual style. The econometric techniques used were logistic regression and multivariate analysis, 
+
